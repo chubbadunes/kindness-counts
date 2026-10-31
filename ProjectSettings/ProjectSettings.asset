@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 22
+  productName: Kindness Counts
+  companyName: Chubba Dunes
+  bundleIdentifier: com.chubbadunes.kindnessquest
+  productGUID: 00000000000000000000000000000000
+  defaultScreenWidth: 1080
+  defaultScreenHeight: 1920
