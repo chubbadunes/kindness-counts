@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="960" viewBox="0 0 540 960" font-family="Verdana, Arial, sans-serif">
+  <rect width="540" height="960" fill="#FAF8EC"/>
+  <text x="270" y="80" text-anchor="middle" font-size="40" font-weight="bold" fill="#6B4099">Kindness Counts</text>
+  <text x="270" y="120" text-anchor="middle" font-size="17" fill="#404040">Kind acts: 7    Streak: 3    Garden level: 2</text>
+  <text x="270" y="175" text-anchor="middle" font-size="24" font-weight="bold" fill="#337A4D">Today's kind missions</text>
+  <rect x="36" y="200" width="468" height="120" rx="16" fill="#E1F5D2"/>
+  <text x="270" y="255" text-anchor="middle" font-size="19" fill="#000000">Smile at 3 people today.</text>
+  <rect x="66" y="275" width="408" height="38" rx="12" fill="#A8D98C"/>
+  <text x="270" y="300" text-anchor="middle" font-size="17" font-weight="bold" fill="#FFFFFF">Done!</text>
+  <rect x="36" y="335" width="468" height="120" rx="16" fill="#FFFFFF"/>
+  <text x="270" y="385" text-anchor="middle" font-size="19" fill="#000000">Help clean up one thing</text>
+  <text x="270" y="415" text-anchor="middle" font-size="19" fill="#000000">without being asked.</text>
+  <rect x="66" y="405" width="408" height="38" rx="12" fill="#8CBF73"/>
+  <text x="270" y="430" text-anchor="middle" font-size="17" font-weight="bold" fill="#FFFFFF">I did it!</text>
+  <rect x="36" y="470" width="468" height="120" rx="16" fill="#FFFFFF"/>
+  <text x="270" y="520" text-anchor="middle" font-size="19" fill="#000000">Take 5 slow, deep breaths.</text>
+  <rect x="66" y="545" width="408" height="38" rx="12" fill="#8CBF73"/>
+  <text x="270" y="570" text-anchor="middle" font-size="17" font-weight="bold" fill="#FFFFFF">I did it!</text>
+  <text x="270" y="640" text-anchor="middle" font-size="21" font-weight="bold" fill="#000000">How do you feel today? Tap a face.</text>
+  <text x="150" y="700" text-anchor="middle" font-size="44">😄</text>
+  <text x="270" y="700" text-anchor="middle" font-size="44">😐</text>
+  <text x="390" y="700" text-anchor="middle" font-size="44">😢</text>
+  <text x="270" y="735" text-anchor="middle" font-size="16" font-style="italic" fill="#737373">You feel great today!</text>
+  <text x="270" y="785" text-anchor="middle" font-size="21" font-weight="bold" fill="#337A4D">Your kindness garden</text>
+  <g>
+    <circle cx="120" cy="815" r="12" fill="#E86AA0"/><circle cx="150" cy="815" r="12" fill="#F2B84B"/><circle cx="180" cy="815" r="12" fill="#8E6FC9"/><circle cx="210" cy="815" r="12" fill="#5FB8E6"/><circle cx="240" cy="815" r="12" fill="#7CCB6F"/><circle cx="270" cy="815" r="12" fill="#E86AA0"/><circle cx="300" cy="815" r="12" fill="#F2B84B"/>
+  </g>
+  <text x="270" y="860" text-anchor="middle" font-size="16" fill="#404040">7 kind acts have grown this garden.</text>
+  <rect x="66" y="890" width="408" height="55" rx="14" fill="#8CBF73"/>
+  <text x="270" y="924" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">Get the Rainbow Pack</text>
+</svg>

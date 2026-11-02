@@ -52,3 +52,9 @@ Packages/manifest.json              com.unity.purchasing 4.12.2, com.unity.ugui
 - No third-party SDKs: no ad networks, no analytics, no social features, no crash reporters that collect identifiers.
 - All progress (missions, mood check-ins, purchases-owned flag) lives in one local JSON file. Uninstalling the app deletes everything.
 - COPPA/GDPR-K posture: the app is child-directed and collects no personal data, shows no behavioral ads, and uses only store-native purchasing with a parental gate.
+
+## Screen mockups
+
+- [01 - Age picker](mockups/01-age-picker.svg)
+- [02 - Main game screen](mockups/02-main-screen.svg)
+- [03 - Parental gate (purchase confirmation)](mockups/03-parental-gate.svg)
