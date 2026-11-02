@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="960" viewBox="0 0 540 960" font-family="Verdana, Arial, sans-serif">
+  <rect width="540" height="960" fill="#FAF8EC"/>
+  <text x="270" y="100" text-anchor="middle" font-size="44" font-weight="bold" fill="#6B4099">Kindness Counts</text>
+  <rect x="36" y="150" width="468" height="700" rx="24" fill="#FFFFFF" opacity="0.9"/>
+  <text x="270" y="230" text-anchor="middle" font-size="26" font-weight="bold" fill="#000000">How old are you?</text>
+  <rect x="66" y="290" width="408" height="80" rx="16" fill="#8CBF73"/>
+  <text x="270" y="340" text-anchor="middle" font-size="24" font-weight="bold" fill="#FFFFFF">Ages 5 - 7</text>
+  <rect x="66" y="400" width="408" height="80" rx="16" fill="#8CBF73"/>
+  <text x="270" y="450" text-anchor="middle" font-size="24" font-weight="bold" fill="#FFFFFF">Ages 8 - 10</text>
+  <rect x="66" y="510" width="408" height="80" rx="16" fill="#8CBF73"/>
+  <text x="270" y="560" text-anchor="middle" font-size="24" font-weight="bold" fill="#FFFFFF">Ages 11 - 13</text>
+  <text x="270" y="700" text-anchor="middle" font-size="18" fill="#808080">Everything stays on this device.</text>
+</svg>

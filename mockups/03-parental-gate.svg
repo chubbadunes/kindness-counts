@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="960" viewBox="0 0 540 960" font-family="Verdana, Arial, sans-serif">
+  <rect width="540" height="960" fill="#4D4D4D" opacity="0.9"/>
+  <rect x="90" y="200" width="360" height="330" rx="20" fill="#FFFFFF"/>
+  <text x="270" y="260" text-anchor="middle" font-size="19" font-weight="bold" fill="#000000">A grown-up must confirm this purchase.</text>
+  <text x="270" y="290" text-anchor="middle" font-size="19" font-weight="bold" fill="#000000">Press and HOLD the heart for 3 seconds.</text>
+  <rect x="130" y="330" width="280" height="60" rx="14" fill="#E65973"/>
+  <rect x="130" y="330" width="140" height="60" rx="14" fill="#C23A50"/>
+  <text x="270" y="368" text-anchor="middle" font-size="22" font-weight="bold" fill="#FFFFFF">❤  HOLD</text>
+  <rect x="130" y="410" width="280" height="50" rx="14" fill="#8CBF73"/>
+  <text x="270" y="441" text-anchor="middle" font-size="18" font-weight="bold" fill="#FFFFFF">Cancel</text>
+</svg>
